@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ahmad Yosry</h1>
 <h3 align="center">A detail-oriented full-stack software engineer from Cairo</h3>
 
-- 🔭 I’m currently working on **my 100 hour project**
+- 🔭 I’m currently working on **FI Academy**, an online education platform where teachers can create and host courses, and students can pay to access them
 
 - 🌱 I’m currently learning **React, Node**
 
-- 🤝 I’m looking for help with **my 100 hour project** :laughing:
+- 🤝 I’m currently looking for **long-term employment opportunities** :laughing:
 
 - 👨‍💻 All of my projects are available at [ahmadyosry.netlify.app/](https://ahmadyosry.netlify.app/)
 
