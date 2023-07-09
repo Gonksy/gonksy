@@ -7,7 +7,7 @@
 
 - 🤝 I’m currently looking for **long-term employment opportunities** :laughing:
 
-- 👨‍💻 All of my projects are available at [ahmadyosry.netlify.app/](https://ahmadyosry.netlify.app/)
+- 👨‍💻 All of my projects are available at [ahmadyosry.com/](https://ahmadyosry.com/)
 
 - 💬 Ask me about **JS, CSS, League.**
 
